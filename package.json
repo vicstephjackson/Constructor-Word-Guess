@@ -1,0 +1,26 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicstephjackson/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicstephjackson/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/vicstephjackson/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.4.1",
+    "prompt": "^1.0.0",
+    "require": "^2.4.20"
+  }
+}
